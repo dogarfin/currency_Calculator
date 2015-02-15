@@ -1,0 +1,16 @@
+Australia	AUD
+Canada	CAD
+Switzerland	CHF
+Denmark	DKK
+Europe	EUR
+Great Britain	GBP
+Hong Kong	HKD
+Japan	JPY
+Mexico	MXN
+New Zeland	NZD
+Phillipines	PHP
+Sweden	SEK
+Singapore	SGD
+Thailand	THB
+United States	USD
+South Africa	ZAR
